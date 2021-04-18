@@ -49,4 +49,3 @@ Your `KBestCounter.java` class must implement the provided interface `KBest.java
 Use a priority queue to implement this functionality. We suggest using the built-in `java.util.PriorityQueue`.
 
 As always, feel free to implement your own tester file to ensure proper functionality.
-
